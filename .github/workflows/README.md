@@ -13,9 +13,9 @@
 
 ### Feel free to connect with me a bit closer:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]   <span style="color:black;font-size:15px;">&nbsp;My Portfolio Website (currently under construction)</span> 
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]   <span style="color:black;font-size:15px;">&nbsp;My Portfolio Website (🛠 currently under construction 🛠)</span> 
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]   <span style="color:black;font-size:15px;">&nbsp;My JDM-Blogging Website (currently under construction)</span>
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]   <span style="color:black;font-size:15px;">&nbsp;My JDM-Blogging Website (🛠 currently under construction 🛠)</span>
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] <span style="color:black;font-size:15px;">&nbsp;My Linkedin profile</span>
 
@@ -61,9 +61,10 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts 💭
 
 <!-- BLOG-POST-LIST:START -->
+- No Blog Posts yet! Tune in on another day! 📩😊
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)

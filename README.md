@@ -57,19 +57,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Svendolin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Svendolin&show_icons=true&hide_border=true&theme=tokyonight" />
 
-</details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Svendolin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Svendolin&show_icons=true&hide_border=true&theme=tokyonight" />
-
-</details>
 
 [website]: https://example.com/
 [instagram]: https://www.instagram.com/toycarsaddict_daily/?hl=de

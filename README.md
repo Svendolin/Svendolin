@@ -1,3 +1,5 @@
+***
+
 # Hello World! - 🌎 - Svendolin greets you! 👋
 
 ---
@@ -12,6 +14,7 @@
 - 🚗 Fun fact: I'm a car- / modelcar nerd too!
 
 <br />
+
 ### Feel free to connect with me a bit closer:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]   <span style="color:black;font-size:15px;">&nbsp;My Portfolio Website (🛠 currently under construction 🛠)</span> 

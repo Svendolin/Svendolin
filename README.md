@@ -1,6 +1,5 @@
-### Hello World! - 🌎 - Svendolin greets you! 👋
+# Hello World! - 🌎 - Svendolin greets you! 👋
 
----
 ---
 
 ## I'm a web-dev-student, creative wallflower and modelcar collector!

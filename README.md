@@ -52,10 +52,10 @@
 
 ---
 ### 📕 Latest Blog Posts 💭
----
 <!-- BLOG-POST-LIST:START -->
 - No Blog Posts yet! Tune in on another day! 📩😊
 <!-- BLOG-POST-LIST:END -->
+
 ---
 
 <details>
@@ -74,7 +74,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Svendolin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Svendolin&show_icons=true&hide_border=true&theme=tokyonight" />
 
 </details>
 

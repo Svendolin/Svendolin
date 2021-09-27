@@ -6,3 +6,10 @@ This here was used to create the blog-post-workflow
 Latest blog post workflow (its the name you used in your yml file)
 > run this manually (green button)
 - By default it should take your latest 5 blog posts from your website
+
+
+Note: https://github.com/anuraghazra/github-readme-stats
+This here was used to show up the stats
+
+- I used: <img align="left" alt="Svendolin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Svendolin&show_icons=true&hide_border=true" />
+- Change the tag to your username ofc

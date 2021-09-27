@@ -1,0 +1,8 @@
+Note: https://github.com/gautamkrishnar/blog-post-workflow
+This here was used to create the blog-post-workflow
+
+- The feed_list needs to be updated with your own website ""
+- To run this: Go to your self-named repository > Actions > 
+Latest blog post workflow (its the name you used in your yml file)
+> run this manually (green button)
+- By default it should take your latest 5 blog posts from your website

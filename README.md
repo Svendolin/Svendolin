@@ -57,8 +57,29 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+<img align="left" alt="Svendolin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Svendolin&show_icons=true&hide_border=true&theme=tokyonight" />
 
-  <img align="left" alt="Svendolin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Svendolin&show_icons=true&hide_border=true&theme=tokyonight" />
+---
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+---
+
+<img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svendolin&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />
+
+
+---
+
+<img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />
+
+
+
 
 
 

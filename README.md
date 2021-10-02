@@ -17,13 +17,13 @@
 
 ### Feel free to connect with me a bit closer:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]   <span style="color:black;font-size:15px;">&nbsp;My Portfolio Website (🛠 currently under construction 🛠)</span> 
+[<img align="left" alt="Portfoliowebsite of Svendolin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]   <span style="color:black;font-size:15px;">&nbsp;My Portfolio Website (🛠 currently under construction 🛠)</span> 
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]   <span style="color:black;font-size:15px;">&nbsp;My JDM-Blogging Website (🛠 currently under construction 🛠)</span>
+[<img align="left" alt="JDM Blogging Website of Svendolin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]   <span style="color:black;font-size:15px;">&nbsp;My JDM-Blogging Website (🛠 currently under construction 🛠)</span>
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] <span style="color:black;font-size:15px;">&nbsp;My Linkedin profile</span>
+[<img align="left" alt="Sven Kamm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] <span style="color:black;font-size:15px;">&nbsp;My Linkedin profile</span>
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] <span style="color:black;font-size:15px;">&nbsp;My Instagram Modelcar Collecting Page</span>
+[<img align="left" alt="Sven Kamm | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] <span style="color:black;font-size:15px;">&nbsp;My Instagram Modelcar Collecting Page</span>
 
 <br />
 
@@ -68,17 +68,13 @@
 ---
 
 
-
-<img align="center" alt="" src="&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />
-
----
-
 ### ✨ Repository Overview:✨
  
 
 
 <img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=Ultimate-Readme-Template&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />
 
+<br />
 <br />
 
 <img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=HTML-Head-Structuring&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />

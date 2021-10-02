@@ -18,4 +18,16 @@ This here was used to show up the stats
 Basic Language Layout:
 <img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svendolin&langs_count=8&show_icons=true&hide_border=true&theme=tokyonight" />
 
-Basic Icon Layout:
+<!-- Basic Icon Layout:
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> -->
+
+CONNECT WITH ME ICONS:
+Note: https://github.com/simple-icons/simple-icons
+This here was used to use the simple icons
+
+LANGUAGE AND TOOLS ICONS:
+Github > Searchbar > Javascript > Icon , rightclick > CopyURL
+
+To deploy my own Vercel Instance for GitHub Stats:
+https://github.com/anuraghazra/github-readme-stats > Fork it > Settings of my Profile > Developer Settings > Personal Access Tokens > Generate New Token > Name it (GitHub Readme Stats) > Expiration to 90 > Generate >
+Copy the Code...

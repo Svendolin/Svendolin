@@ -83,12 +83,7 @@
  
 
 
-<img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=Ultimate-Readme-Template&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />
-
-<br />
-<br />
-
-<img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=HTML-Head-Structuring&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=Ultimate-Readme-Template&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" /> <img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=HTML-Head-Structuring&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />
 
 ⬇ Scroll down to "Popular Repositories" to watch them in depth ⬇
 

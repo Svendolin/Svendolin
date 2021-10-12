@@ -21,7 +21,7 @@
 
 ---
 
-![Your Adds Here](https://img.shields.io/static/v1?label=&message==>&color=pink&style=for-the-badge)
+![Your Adds Here](https://img.shields.io/static/v1?label=&message==>&color=purple&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/svendolin?logo=Furry%20Network&style=for-the-badge) ![GitHub watchers](https://img.shields.io/github/watchers/svendolin/svendolin?color=7fc00&label=visits&logo=AdGuard&logoColor=ffffff&style=for-the-badge) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/svendolin/svendolin?color=yellow&logo=Git&logoColor=ffffff&style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/svendolin/svendolin?color=red&logo=addThis&logoColor=white&style=for-the-badge) 
 
 ---
@@ -82,9 +82,12 @@
 ### ✨ Repository Overview:✨
  
 
-
-<img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=Ultimate-Readme-Template&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" /> <img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=HTML-Head-Structuring&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=HTML-Head-Structuring&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />
 <img align="center" alt="Svendolin's Most Used Languages"  src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=All-about-Javascript&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=Ultimate-Readme-Template&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />
+
+ 
+
 
 📌 Please check out the ⬇ PINNED REPOSITORIES BELOW ⬇ to get a closer look: 📌
 

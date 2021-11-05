@@ -91,9 +91,10 @@ d***
 ---
 
 ### 🕑 Average time I was coding this week: 🕝
-[![Svendolin's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=svendolin)](https://github.com/svendolin/github-readme-stats)
+<img align="center" alt="Svendolin's Most Used Languages" width="800" height="" src="https://github-readme-stats.vercel.app/api/wakatime?username=svendolin&langs_count=8&show_icons=true&hide_border=true&theme=tokyonight" />
 
 ---
+
 
 
 

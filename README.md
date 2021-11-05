@@ -91,7 +91,7 @@ d***
 ---
 
 ### 🕑 Average time I was coding this week: 🕝
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=svendolin)](https://github.com/anuraghazra/github-readme-stats)
+[![Svendolin's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=svendolin)](https://github.com/svendolin/github-readme-stats)
 
 ---
 

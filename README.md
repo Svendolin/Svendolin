@@ -1,5 +1,3 @@
-d***
-
 # Hello World! - 🌎 - Svendolin greets you! 👋
 
 ---

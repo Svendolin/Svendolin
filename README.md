@@ -1,4 +1,4 @@
-***
+d***
 
 # Hello World! - 🌎 - Svendolin greets you! 👋
 
@@ -78,23 +78,34 @@
 
 ---
 
+
 <img align="center" alt="Svendolin's Most Used Languages" width="800" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svendolin&langs_count=8&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />
 
 
 ---
 
+<img align="center" alt="Svendolin's Most Used Languages" width="800" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svendolin&langs_count=8&show_icons=true&hide_border=true&theme=tokyonight" />
 
-### ✨ Repository Overview:✨
+
+
+---
+
+### 🕑 Average time I was coding this week: 🕝
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=svendolin)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+
+
+
+###  ✨ Repository Overview: ✨
  
 
 <img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=HTML-Head-Structuring&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" /> <img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=Ultimate-Readme-Template&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" /> <img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=All-about-Jquery&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" /> <img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=All-about-PHP&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />
 
- 
 
 
 📌 Please check out the ⬇ PINNED REPOSITORIES BELOW ⬇ to get a closer look: 📌
-
-
 
 
 [website]: https://example.com/

@@ -65,7 +65,7 @@
 <br />
 <br /> 
 
-### Thank you for the visit:
+### Thank you for passing by:
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=svendolin.svendolin) 
 
 <br />

@@ -54,6 +54,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 <!--
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
@@ -62,6 +63,11 @@
 -->
 
 <br />
+<br /> 
+
+### Thank you for the visit:
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=svendolin.svendolin) 
+
 <br />
 
 ---
@@ -89,13 +95,13 @@
 ---
 
 ### 🕑 Average time I was coding this week: 🕝
+<!--START_SECTION:waka-->
 <img align="center" alt="Svendolin's Most Used Languages" width="800" height="" src="https://github-readme-stats.vercel.app/api/wakatime?username=svendolin&langs_count=8&show_icons=true&hide_border=true&theme=tokyonight" />
+<!--END_SECTION:waka-->
+
+
 
 ---
-
-
-
-
 
 ###  ✨ Repository Overview: ✨
  

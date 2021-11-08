@@ -97,8 +97,11 @@
 ### 🕑 Average time I was coding this week: 🕝
 <!--START_SECTION:waka-->
 ```text
-Markdown     4 mins          ██████████████████▓░░░░░░   74.28 % 
-Git Config   1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.72 % 
+Markdown   1 hr 35 mins    ███████████████▒░░░░░░░░░   61.09 % 
+HTML       22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+CSS        14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Other      11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+YAML       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 ```
 <!--END_SECTION:waka-->
 <img align="center" alt="Svendolin's Wakatime Stats" width="800" height="" src="https://github-readme-stats.vercel.app/api/wakatime?username=svendolin&langs_count=8&show_icons=true&hide_border=true&theme=tokyonight" />

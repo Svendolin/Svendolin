@@ -78,7 +78,7 @@
 
 ---
 
-### 🕑 Average time I was coding this week: 🕝
+### 🕑 Average time of code this week: 🕝
 <!--START_SECTION:waka-->
 ```text
 Markdown   1 hr 50 mins    ███████▓░░░░░░░░░░░░░░░░░   30.21 % 

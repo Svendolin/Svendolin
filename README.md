@@ -65,7 +65,7 @@
 <br />
 <br /> 
 
-### Thank you for the visit:
+### Thank you for passing by:
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=svendolin.svendolin) 
 
 <br />
@@ -100,7 +100,20 @@
 
 ---
 
+<<<<<<< HEAD
 
+=======
+### 🕑 Average time I was coding this week: 🕝
+<!--START_SECTION:waka-->
+```text
+Markdown   1 hr 50 mins    ███████▓░░░░░░░░░░░░░░░░░   30.21 % 
+PHP        1 hr 38 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.04 % 
+CSS        1 hr 12 mins    █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+HTML       59 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Other      11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+```
+<!--END_SECTION:waka-->
+>>>>>>> db129b86bdf7fa42d29b8dfc15909ea3f6c194ba
 <img align="center" alt="Svendolin's Wakatime Stats" width="800" height="" src="https://github-readme-stats.vercel.app/api/wakatime?username=svendolin&langs_count=8&show_icons=true&hide_border=true&theme=tokyonight" />
 
 

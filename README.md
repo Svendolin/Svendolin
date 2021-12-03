@@ -79,8 +79,6 @@
 
 ---
 
-<<<<<<< HEAD
-=======
 ### 🕑 Average time of code this week: 🕝
 <!--START_SECTION:waka-->
 ```text
@@ -94,7 +92,6 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 
 ---
 
->>>>>>> 1f322de500d7291c58566dfc5c9d1619da01ca6a
 <img align="center" alt="Svendolin's GitHub Stats" width="800" src="https://github-readme-stats.vercel.app/api?username=svendolin&show_icons=true&hide_border=true&theme=tokyonight" />
 
 ---
@@ -111,7 +108,6 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 
 ---
 
-<<<<<<< HEAD
 ### 🕑 Average time I was coding this week: 🕝
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -119,8 +115,6 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 
 
 ---
-=======
->>>>>>> 1f322de500d7291c58566dfc5c9d1619da01ca6a
 
 ###  ✨ Repository Overview: ✨
  

@@ -19,7 +19,7 @@
 
 ---
 
-![Your Adds Here](https://img.shields.io/static/v1?label=&message==>&color=purple&style=for-the-badge)
+![Your Adds Here](https://img.shields.io/static/v1?label=&message==>&color=black&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/svendolin?logo=Furry%20Network&style=for-the-badge) ![GitHub watchers](https://img.shields.io/github/watchers/svendolin/svendolin?color=7fc00&label=visits&logo=AdGuard&logoColor=ffffff&style=for-the-badge) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/svendolin/all-about-php?color=yellow&logo=Git&logoColor=ffffff&style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/svendolin/svendolin?color=red&logo=addThis&logoColor=white&style=for-the-badge) 
 
 ---
@@ -79,6 +79,22 @@
 
 ---
 
+<<<<<<< HEAD
+=======
+### 🕑 Average time of code this week: 🕝
+<!--START_SECTION:waka-->
+```text
+CSS          9 hrs 10 mins   ██████████▒░░░░░░░░░░░░░░   41.72 % 
+HTML         8 hrs 1 min     █████████░░░░░░░░░░░░░░░░   36.47 % 
+PHP          3 hrs 48 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.29 % 
+JavaScript   57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+```
+<!--END_SECTION:waka-->
+
+---
+
+>>>>>>> 1f322de500d7291c58566dfc5c9d1619da01ca6a
 <img align="center" alt="Svendolin's GitHub Stats" width="800" src="https://github-readme-stats.vercel.app/api?username=svendolin&show_icons=true&hide_border=true&theme=tokyonight" />
 
 ---
@@ -95,6 +111,7 @@
 
 ---
 
+<<<<<<< HEAD
 ### 🕑 Average time I was coding this week: 🕝
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -102,6 +119,8 @@
 
 
 ---
+=======
+>>>>>>> 1f322de500d7291c58566dfc5c9d1619da01ca6a
 
 ###  ✨ Repository Overview: ✨
  

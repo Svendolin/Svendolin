@@ -108,13 +108,6 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 
 ---
 
-### 🕑 Average time I was coding this week: 🕝
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-<img align="center" alt="Svendolin's Wakatime Stats" width="800" height="" src="https://github-readme-stats.vercel.app/api/wakatime?username=svendolin&langs_count=8&show_icons=true&hide_border=true&theme=tokyonight" />
-
-
----
 
 ###  ✨ Repository Overview: ✨
  

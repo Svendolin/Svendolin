@@ -137,7 +137,7 @@ Git Config   3 mins          ░░░░░░░░░░░░░░░░░
 ---
 
 
-###  ✨ Repository Overview: ✨
+###  ✨ Featured Repositories (only for preview): ✨
  
 
 <img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=HTML-Head-Structuring&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" /> <img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=Ultimate-Readme-Template&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" /> <img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=All-about-Jquery&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" /> <img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=All-about-PHP&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />

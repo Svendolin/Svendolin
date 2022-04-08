@@ -1,4 +1,4 @@
-# Hello World! - 🌎 - Svendolin greets you! 👋
+# Hello World! - 🌎 - Svendolin greets you! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ---
 

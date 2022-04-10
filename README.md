@@ -1,4 +1,4 @@
-# Hello World! - 🌎 - Svendolin greets you! 👋
+# Hello People, hello World! - <img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" width="50px"> - Svendolin greets you! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ---
 
@@ -107,13 +107,16 @@
 
 ### 🕑 Average time of code this week: 🕝
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   2 hrs 36 mins   ████████░░░░░░░░░░░░░░░░░   32.64 % 
-CSS          2 hrs 8 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.74 % 
-HTML         1 hr 59 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.93 % 
-PHP          52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Markdown     21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+PHP          7 hrs 7 mins    █████████████████████░░░░   83.64 %
+HTML         57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
+CSS          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+SQL          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
+
 <!--END_SECTION:waka-->
 
 ---
@@ -135,7 +138,7 @@ Markdown     21 mins         █░░░░░░░░░░░░░░░░
 ---
 
 
-###  ✨ Repository Overview: ✨
+###  ✨ Featured Repositories (only for preview): ✨
  
 
 <img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=HTML-Head-Structuring&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" /> <img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=Ultimate-Readme-Template&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" /> <img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=All-about-Jquery&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" /> <img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=All-about-PHP&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />

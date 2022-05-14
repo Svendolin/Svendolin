@@ -112,7 +112,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+PHP        8 mins          █████████████████████▒░░░   85.56 %
+Markdown   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
+Text       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->

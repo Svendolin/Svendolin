@@ -1,4 +1,4 @@
-# Hello People, hello World! - <img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" width="5%"> - Svendolin greets you! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%">
+# Hello People, hello World! - <img src="https://media4.giphy.com/media/yo1whaKkz38ME/giphy.gif?cid=ecf05e47puz8r8yllnavypt0s4gr11ji3sw9sxv0r5q4wj52&rid=giphy.gif&ct=s" width="50px"> - Svendolin greets you <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47994dex4z0hp4tdusczpcd207xh7ell77dpc6t54l&rid=giphy.gif&ct=s" width="50px">
 
 ---
 
@@ -32,6 +32,8 @@
 [<img align="left" alt="Portfoliowebsite of Svendolin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]   <span style="color:black;font-size:15px;">&nbsp;My Portfolio Website (🛠 currently under construction 🛠)</span> 
 
 [<img align="left" alt="JDM Blogging Website of Svendolin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]   <span style="color:black;font-size:15px;">&nbsp;My JDM-Blogging Website (🛠 currently under construction 🛠)</span>
+
+<img src="https://media1.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif?cid=ecf05e47unhar3cah3ma8sau1ihz2y3ltmkidpb6itoljapz&rid=giphy.gif&ct=ts" width="200px">
 
 <br />
 

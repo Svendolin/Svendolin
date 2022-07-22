@@ -12,6 +12,7 @@
 - 💥 I’m still learning...and learning...and learning...so don't judge me too hard. 🙏
 - 👨🏾‍🤝‍👨🏻 Always open to collaborate with other content creators to learn more. 🤗
 - 📚 I'm trying to understand the infinite possibilities of the WWW day by day!
+- 💪 Design, Webdevelopment and digital Marketing is my daily business.
 - 💯 I'm a fan of YT-Tutorials in combination of the wise words of our academics.
 - 🚗 Fun fact: I'm a car- / modelcar nerd too!
 

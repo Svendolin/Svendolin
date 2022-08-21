@@ -26,13 +26,13 @@
 ---
 
 ### Feel free to connect with me a bit closer:
-[<img align="left" alt="Sven Kamm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] <span style="color:black;font-size:15px;">&nbsp;My Linkedin profile</span>
+[<img align="left" alt="Sven Kamm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><span style="color:black;font-size:15px;">&nbsp;My Linkedin profile</span>]()
 
 [<img align="left" alt="Sven Kamm | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] <span style="color:black;font-size:15px;">&nbsp;My Instagram Modelcar Collecting Page</span>
 
 [<img align="left" alt="Portfoliowebsite of Svendolin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]   <span style="color:black;font-size:15px;">&nbsp;My Portfolio Website (🛠 currently under construction 🛠)</span> 
 
-[<img align="left" alt="JDM Blogging Website of Svendolin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]   <span style="color:black;font-size:15px;">&nbsp;My JDM-Blogging Website (🛠 currently under construction 🛠)</span>
+<img align="left" alt="JDM Blogging Website of Svendolin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />  <span style="color:black;font-size:15px;">&nbsp;My JDM-Blogging Website (🛠 currently under construction 🛠)</span>
 
 <img src="https://media1.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif?cid=ecf05e47unhar3cah3ma8sau1ihz2y3ltmkidpb6itoljapz&rid=giphy.gif&ct=ts" width="200px">
 

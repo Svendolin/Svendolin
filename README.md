@@ -141,16 +141,34 @@ No activity tracked
 ---
 
 
-###  ✨ Featured Repositories (only for preview): ✨
+### <img align="left" alt="Visual Studio Code" margin="10px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />  ✨ VSC-Shortcut Commands you may find interesting: ✨
+
+---
+
+| NAME | COMMAND | EFFECT  | 
+|:--------------| :--------------| :--------------|
+|Autoformatter| ALT + SHIFT + F | Autoformat your code for various languages (make sure you've installed an autoformatter-extension - if you've installed multiple formatters, choose one)
+|Search Letter Locally | CTRL + F | Search for text and code inside this file (you can also rename the chosen text) | 
+|Search Letter Globally | CTRL + SHIFT + F | Search for the text and code of the WHOLE project |
+|Search Files| CTRL + P | Search files by name |
+|Replace Text | CTRL + H | Replace all the text locally which you want to replace |
+|Comment Code | CTRL + C + K | Mark the code you want to comment > Comment it out |
+|Uncomment Code | CTRL + K + U | Mark the commented code you want to undo > Change it back |
+|Autocomplete Menu | CTRL + SPACE | Opens the autocomplete menu to suggest the code you might need | 
+|Find Function definition | F12 | Click on the called function, like: "test();" > click F12 > you will jump automatically to "function test(){}" where the function was initialized |
+|Rename functions and all its calls | F2 | Click on the initialized function like "function test(){}" > click F2 > Rename it, all calls will be renamed as well |
+| Peek Code | CTRL | Hover over HTML and CSS elements and click "ctrl" to see the used css for this html code (only possible with css peek extension) |
+| Jump through code | CTRL + -> | Jump through particular important lines of codes |
+| Jump through and mark code | CTRL + SHIFT + -> | Jump through particular important lines of codes while marking them for further action |
+| New coding line | CTRL + ENTER | Jump to a new empty line for new codes | 
+| Copy line of code | ALT + SHIFT + ARROWDOWN | Copies the line of code where you have your cursor one line below |
+| Multiple Cursor | ALT + CTRL + ARROWDOWN | Multifies your cursor |
+| DRAG and DROP coding line | ALT + ARROWLINE | Drag and drop your line of code where your cursor stayed at |
+
+
  
 
-<img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=HTML-Head-Structuring&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" /> <img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=Ultimate-Readme-Template&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" /> <img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=All-about-Jquery&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" /> <img align="center" alt="Svendolin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=Svendolin&repo=All-about-PHP&layout=compact&show_icons=true&hide_border=true&theme=tokyonight" />
 
 
 
-📌 Please check out the ⬇ PINNED REPOSITORIES BELOW ⬇ to get a closer look: 📌
 
-
-[website]: https://example.com/
-[instagram]: https://www.instagram.com/toycarsaddict_daily/?hl=de
-[linkedin]: https://www.linkedin.com/in/sven-kamm-15b313185

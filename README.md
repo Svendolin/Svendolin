@@ -34,6 +34,7 @@
 
 [<img align="left" alt="Portfoliowebsite of Svendolin" width="30px" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" /><span style="color:black;font-weight:normal;font-size:18px;">&nbsp;My Portfolio Website (🛠 currently under construction 🛠)</span> ]()
 
+<br />
 
 <img src="https://media1.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif?cid=ecf05e47unhar3cah3ma8sau1ihz2y3ltmkidpb6itoljapz&rid=giphy.gif&ct=ts" width="200px">
 

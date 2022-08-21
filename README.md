@@ -26,13 +26,14 @@
 ---
 
 ### Feel free to connect with me a bit closer:
-[<img align="left" alt="Sven Kamm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><span style="color:black;font-size:15px;">&nbsp;My Linkedin profile</span>]()
+[<img align="left" alt="Sven Kamm | LinkedIn" width="30px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1661102661~hmac=d2a99e89dccdaf9cae2b3ff50c315090" /><span style="color:black;font-weight:normal;font-size:18px;">&nbsp;My personal Linkedin profile</span>](https://www.linkedin.com/in/svendolin/)
 
-[<img align="left" alt="Sven Kamm | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] <span style="color:black;font-size:15px;">&nbsp;My Instagram Modelcar Collecting Page</span>
 
-[<img align="left" alt="Portfoliowebsite of Svendolin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]   <span style="color:black;font-size:15px;">&nbsp;My Portfolio Website (🛠 currently under construction 🛠)</span> 
 
-<img align="left" alt="JDM Blogging Website of Svendolin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />  <span style="color:black;font-size:15px;">&nbsp;My JDM-Blogging Website (🛠 currently under construction 🛠)</span>
+[<img align="left" alt="Social Media" width="30px" src="https://cdn-icons.flaticon.com/png/512/1968/premium/1968666.png?token=exp=1661102253~hmac=cfaa445bd41a3b357e0e0731f8935c33" /><span style="color:black;font-weight:normal;font-size:18px;">&nbsp;Social Media and Shop</span>](https://beacons.ai/toycarsaddict)
+
+[<img align="left" alt="Portfoliowebsite of Svendolin" width="30px" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" /><span style="color:black;font-weight:normal;font-size:18px;">&nbsp;My Portfolio Website (🛠 currently under construction 🛠)</span> ]()
+
 
 <img src="https://media1.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif?cid=ecf05e47unhar3cah3ma8sau1ihz2y3ltmkidpb6itoljapz&rid=giphy.gif&ct=ts" width="200px">
 

@@ -1,4 +1,4 @@
-# Hello People, hello World! - <img src="https://cliply.co/wp-content/uploads/2021/02/392102850_EARTH_EMOJI_400px.gif" width="50px"> - Svendolin greets you! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello People, hello World! - <img src="https://media4.giphy.com/media/yo1whaKkz38ME/giphy.gif?cid=ecf05e47puz8r8yllnavypt0s4gr11ji3sw9sxv0r5q4wj52&rid=giphy.gif&ct=s" width="50px"> - Svendolin greets you! <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47994dex4z0hp4tdusczpcd207xh7ell77dpc6t54l&rid=giphy.gif&ct=s" width="50px">
 
 ---
 
@@ -12,6 +12,7 @@
 - 💥 I’m still learning...and learning...and learning...so don't judge me too hard. 🙏
 - 👨🏾‍🤝‍👨🏻 Always open to collaborate with other content creators to learn more. 🤗
 - 📚 I'm trying to understand the infinite possibilities of the WWW day by day!
+- 💪 Design, Webdevelopment and digital Marketing is my daily business.
 - 💯 I'm a fan of YT-Tutorials in combination of the wise words of our academics.
 - 🚗 Fun fact: I'm a car- / modelcar nerd too!
 
@@ -19,7 +20,7 @@
 
 ---
 
-![Your Adds Here](https://img.shields.io/static/v1?label=&message==>&color=purple&style=for-the-badge)
+![Your Adds Here](https://img.shields.io/static/v1?label=&message==>&color=orange&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/svendolin?logo=Furry%20Network&style=for-the-badge) ![GitHub watchers](https://img.shields.io/github/watchers/svendolin/svendolin?color=7fc00&label=visits&logo=AdGuard&logoColor=ffffff&style=for-the-badge) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/svendolin/all-about-php?color=yellow&logo=Git&logoColor=ffffff&style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/svendolin/svendolin?color=red&logo=addThis&logoColor=white&style=for-the-badge) 
 
 ---
@@ -33,6 +34,8 @@
 
 [<img align="left" alt="JDM Blogging Website of Svendolin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]   <span style="color:black;font-size:15px;">&nbsp;My JDM-Blogging Website (🛠 currently under construction 🛠)</span>
 
+<img src="https://media1.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif?cid=ecf05e47unhar3cah3ma8sau1ihz2y3ltmkidpb6itoljapz&rid=giphy.gif&ct=ts" width="200px">
+
 <br />
 
 ### Email to contact me:
@@ -45,6 +48,7 @@
 <p> 
 <img align="left" alt="Visual Studio Code" margin="10px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Stackblitz" style="padding-left:10px;" width="35px" src="https://angular.de/artikel/stackblitz/stackblitz.png" />
+<img align="left" alt="Wordpress" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 <img align="left" alt="HTML5" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -53,6 +57,7 @@
 <img align="left" alt="Angular" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="React" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Vue.js" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img align="left" alt="babylon.js" style="padding-left:10px;" width="35px" src="https://avatars.githubusercontent.com/u/4855800?s=200&v=4" />
 <img align="left" alt="JQuery" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
 <img align="left" alt="Node.js" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Express" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
@@ -112,12 +117,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-PHP          8 hrs 8 mins    ██████████████▒░░░░░░░░░░   56.76 %
-Markdown     3 hrs 12 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.40 %
-TypeScript   1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-Text         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-CSS          20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

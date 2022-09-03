@@ -26,11 +26,12 @@
 ---
 
 ### Feel free to connect with me a bit closer:
-[<img align="left" alt="Sven Kamm | LinkedIn" width="30px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1661102661~hmac=d2a99e89dccdaf9cae2b3ff50c315090" /><span style="color:black;font-weight:normal;font-size:18px;">&nbsp;My personal Linkedin profile</span>](https://www.linkedin.com/in/svendolin/)
+[<img align="left" alt="Sven Kamm | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /><span style="color:black;font-weight:normal;font-size:18px;">&nbsp;My personal Linkedin profile</span>](https://www.linkedin.com/in/svendolin/)
 
 
 
-[<img align="left" alt="Social Media" width="30px" src="https://cdn-icons.flaticon.com/png/512/1968/premium/1968666.png?token=exp=1661102253~hmac=cfaa445bd41a3b357e0e0731f8935c33" /><span style="color:black;font-weight:normal;font-size:18px;">&nbsp;Social Media and Shop</span>](https://beacons.ai/toycarsaddict)
+[<img align="left" alt="Social Media" width="30px" src="https://cdn-icons-png.flaticon.com/512/1968/1968666.png" /><span style="color:black;font-weight:normal;font-size:18px;">&nbsp;Social Media and Shop</span>](https://beacons.ai/toycarsaddict)
+
 
 [<img align="left" alt="Portfoliowebsite of Svendolin" width="30px" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" /><span style="color:black;font-weight:normal;font-size:18px;">&nbsp;My Portfolio Website (🛠 currently under construction 🛠)</span> ]()
 
@@ -66,7 +67,7 @@
 <img align="left" alt="Visbug" style="padding-left:10px;" width="35px" src="https://github.com/GoogleChromeLabs/ProjectVisBug/raw/main/assets/visbug.png" />
 <img align="left" alt="Bootstrap" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="PHP" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-<img align="left" alt="Ajax" style="padding-left:10px;padding-top:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png" />
+<img align="left" alt="Ajax" style="padding-left:10px;padding-top:30px;" width="35px" src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png" />
 <img align="left" alt="SQL" style="padding-left:10px;padding-top:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />

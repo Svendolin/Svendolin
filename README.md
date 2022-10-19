@@ -30,7 +30,7 @@
 
 
 
-[<img align="left" alt="Social Media" width="30px" src="https://cdn-icons-png.flaticon.com/512/1968/1968666.png" /><span style="color:black;font-weight:normal;font-size:18px;">&nbsp;Social Media and Shop</span>](https://beacons.ai/toycarsaddict)
+[<img align="left" alt="Social Media" width="30px" src="https://cdn-icons-png.flaticon.com/512/1968/1968666.png" /><span style="color:black;font-weight:normal;font-size:18px;">&nbsp;Social Media and Shop (Modelcar Based)</span>](https://beacons.ai/toycarsaddict)
 
 
 [<img align="left" alt="Portfoliowebsite of Svendolin" width="30px" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" /><span style="color:black;font-weight:normal;font-size:18px;">&nbsp;My Portfolio Website (🛠 currently under construction 🛠)</span> ]()

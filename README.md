@@ -120,10 +120,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML         53 mins         ██████████████████████▒░░   89.93 %
-JavaScript   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
-Markdown     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

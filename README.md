@@ -28,10 +28,10 @@
 ### Feel free to connect with me a bit closer:
 [<img align="left" alt="Sven Kamm | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /><span style="color:black;font-weight:normal;font-size:18px;">&nbsp;My personal Linkedin profile</span>](https://www.linkedin.com/in/svendolin/)
 
+<!-- [<img align="left" alt="Social Media" width="30px" src="https://cdn-icons-png.flaticon.com/512/1968/1968666.png" /><span style="color:black;font-weight:normal;font-size:18px;">&nbsp;Social Media and Shop (Modelcar Based)</span>](https://beacons.ai/toycarsaddict) -->
 
 
-[<img align="left" alt="Social Media" width="30px" src="https://cdn-icons-png.flaticon.com/512/1968/1968666.png" /><span style="color:black;font-weight:normal;font-size:18px;">&nbsp;Social Media and Shop (Modelcar Based)</span>](https://beacons.ai/toycarsaddict)
-
+[<img align="left" alt="Diecastwebsite of Svendolin" width="30px" src="https://yt3.ggpht.com/ta-8KIn11-R3V8TlbCzptbxpA26yyTXW1qwhTcNbJxW3SSIZyCBjmo7U8FQUR5d1uKWoZ3vg=s900-c-k-c0x00ffffff-no-rj" /><span style="color:black;font-weight:normal;font-size:18px;">&nbsp;My Diecast Website (🛠 currently under construction 🛠)</span> ](https://toycarsaddict.club)
 
 [<img align="left" alt="Portfoliowebsite of Svendolin" width="30px" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" /><span style="color:black;font-weight:normal;font-size:18px;">&nbsp;My Portfolio Website (🛠 currently under construction 🛠)</span> ]()
 

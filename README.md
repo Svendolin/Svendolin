@@ -153,6 +153,7 @@ No activity tracked
 |Autoformatter| ALT + SHIFT + F | Autoformat your code for various languages (make sure you've installed an autoformatter-extension - if you've installed multiple formatters, choose one)
 |Search Letter Locally | CTRL + F | Search for text and code inside this file (you can also rename the chosen text) | 
 |Search Letter Globally | CTRL + SHIFT + F | Search for the text and code of the WHOLE project |
+|Command Palette ("view") for Autoprefix| CTRL + SHIFT + P | Activate Autoprefix on your CSS / SCSS and LESS or further commands |
 |Search Files| CTRL + P | Search files by name |
 |Replace Text | CTRL + H | Replace all the text locally which you want to replace |
 |Comment Code | CTRL + C + K | Mark the code you want to comment > Comment it out |

@@ -120,10 +120,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-CSS        41 mins         ███████████░░░░░░░░░░░░░░   43.77 %
-HTML       30 mins         ████████░░░░░░░░░░░░░░░░░   32.25 %
-SCSS       21 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.90 %
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

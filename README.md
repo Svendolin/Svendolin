@@ -37,10 +37,6 @@
 
 <br />
 
-<img src="https://media1.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif?cid=ecf05e47unhar3cah3ma8sau1ihz2y3ltmkidpb6itoljapz&rid=giphy.gif&ct=ts" width="200px">
-
-<br />
-
 ### Email to contact me:
 **sven0815@gmx.ch**
 
@@ -99,6 +95,10 @@
   <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png"/> </a>
   <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/> </a>
 </p>
+
+<img src="https://media1.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif?cid=ecf05e47unhar3cah3ma8sau1ihz2y3ltmkidpb6itoljapz&rid=giphy.gif&ct=ts" width="200px">
+
+<br />
 
 <br />
 <br /> 

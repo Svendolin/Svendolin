@@ -100,9 +100,6 @@
 
 <br />
 
-<br />
-<br /> 
-
 ### Thank you for the visit:
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=svendolin.svendolin) 
 

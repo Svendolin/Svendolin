@@ -8,7 +8,7 @@
 
 ## I'm a web-dev-student, creative wallflower and modelcar collector!
 
-- 📲 I’m currently a SAE student in Zurich Switzerland. 💻 
+- 📲 I’m currently a SAE BACHELOR student in Zurich Switzerland. 💻 
 - 💥 I’m still learning...and learning...and learning...so don't judge me too hard. 🙏
 - 👨🏾‍🤝‍👨🏻 Always open to collaborate with other content creators to learn more. 🤗
 - 📚 I'm trying to understand the infinite possibilities of the WWW day by day!

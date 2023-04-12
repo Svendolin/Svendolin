@@ -42,12 +42,19 @@
 
 <br />
 
-### Languages, Code-Editors, Tools, Frameworks, Libraries, Plugins, Extensions and more I use / heared of:
-
+### Code Editors and CMS I've worked with:
 <p> 
 <img align="left" alt="Visual Studio Code" margin="10px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Stackblitz" style="padding-left:10px;" width="35px" src="https://angular.de/artikel/stackblitz/stackblitz.png" />
 <img align="left" alt="Wordpress" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
+</p>
+
+<br />
+<br />
+<br />
+
+### Coding Languages, Frameworks, Libraries, Plugins and Extensions I've worked with:
+<p>
 <img align="left" alt="HTML5" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -56,34 +63,41 @@
 <img align="left" alt="Angular" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="React" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Vue.js" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="babylon.js" style="padding-left:10px;" width="35px" src="https://avatars.githubusercontent.com/u/4855800?s=200&v=4" />
 <img align="left" alt="JQuery" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
 <img align="left" alt="Node.js" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Express" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" alt="Visbug" style="padding-left:10px;" width="35px" src="https://github.com/GoogleChromeLabs/ProjectVisBug/raw/main/assets/visbug.png" />
 <img align="left" alt="Bootstrap" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="Tailwind" style="padding-left:10px;" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" />
+</p>
+
+<br />
+<br />
+<br />
+
+### Experiences I've made with Frontend, Backend and Databases thanks to:
+<p>
 <img align="left" alt="PHP" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-<img align="left" alt="Ajax" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png" />
+<img align="left" alt="PHPMyAdmin" style="padding-left:10px;" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/2560px-PhpMyAdmin_logo.svg.png" />
 <img align="left" alt="SQL" style="padding-left:10px;padding-top:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Ajax" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png" />
 <img align="left" alt="Git" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" style="padding-left:10px;padding-top:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" style="padding-left:10px;padding-top:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
+
+<br />
+<br />
+<br />
+
 <!--
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /> 
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 -->
-<br />
-<br />
-<br />
-<br />
 
-
-
-### Design tools I use tepending on the project:
+### Design tools I use depending on the project:
 
 <p align="left">
   <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-creative-cloud--v1.png"/> </a>

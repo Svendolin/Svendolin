@@ -42,18 +42,19 @@
 
 <br />
 
-### Code Editors and CMS I've worked with:
+### Code Editors and CMS I've worked with so far:
 <p> 
 <img align="left" alt="Visual Studio Code" margin="10px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Stackblitz" style="padding-left:10px;" width="35px" src="https://angular.de/artikel/stackblitz/stackblitz.png" />
 <img align="left" alt="Wordpress" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
+  <img align="left" alt="Elementor" style="padding-left:10px;" width="35px" src="https://elementor.com/marketing/wp-content/uploads/2021/10/Elementor-Logo-Symbol-Red.png" />
 </p>
 
 <br />
 <br />
 <br />
 
-### Coding Languages, Frameworks, Libraries, Plugins and Extensions I've worked with:
+### Coding Languages, Frameworks, Libraries, Plugins and Extensions I've worked with so far:
 <p>
 <img align="left" alt="HTML5" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -74,7 +75,7 @@
 <br />
 <br />
 
-### Experiences I've made with Frontend, Backend and Databases thanks to:
+### Experiences I've made so far with Frontend, Backend and Databases thanks to:
 <p>
 <img align="left" alt="PHP" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 <img align="left" alt="PHPMyAdmin" style="padding-left:10px;" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/2560px-PhpMyAdmin_logo.svg.png" />
@@ -97,7 +98,7 @@
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 -->
 
-### Design tools I use depending on the project:
+### Adobe Design tools I use depending on the project:
 
 <p align="left">
   <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-creative-cloud--v1.png"/> </a>

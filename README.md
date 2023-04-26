@@ -43,6 +43,7 @@
 <br />
 
 ### Code Editors and CMS I've worked with so far:
+<hr>
 <p> 
 <img align="left" alt="Visual Studio Code" margin="10px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Stackblitz" style="padding-left:10px;" width="35px" src="https://angular.de/artikel/stackblitz/stackblitz.png" />
@@ -55,6 +56,7 @@
 <br />
 
 ### Coding Languages, Frameworks, Libraries, Plugins and Extensions I've worked with so far:
+<hr>
 <p>
 <img align="left" alt="HTML5" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -77,6 +79,7 @@
 <br />
 
 ### Experiences I've made so far with Frontend, Backend and Databases thanks to:
+<hr>
 <p>
 <img align="left" alt="PHP" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 <img align="left" alt="PHPMyAdmin" style="padding-left:10px;" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/2560px-PhpMyAdmin_logo.svg.png" />
@@ -100,7 +103,7 @@
 -->
 
 ### Adobe Design tools I use depending on the project:
-
+<hr>
 <p align="left">
   <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-creative-cloud--v1.png"/> </a>
   <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-acrobat--v1.png"/> </a>

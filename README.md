@@ -20,12 +20,12 @@
 
 ---
 
-![Your Adds Here](https://img.shields.io/static/v1?label=&message==>&blue=brown&style=for-the-badge)
+![Your Adds Here](https://img.shields.io/static/v1?label=&message==>&blue=redn&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/svendolin?logo=Furry%20Network&style=for-the-badge) ![GitHub watchers](https://img.shields.io/github/watchers/svendolin/svendolin?color=7fc00&label=visits&logo=AdGuard&logoColor=ffffff&style=for-the-badge) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/svendolin/all-about-php?color=yellow&logo=Git&logoColor=ffffff&style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/svendolin/svendolin?color=red&logo=addThis&logoColor=white&style=for-the-badge) 
 
 ---
 
-### Feel free to connect with me a bit closer:
+### Feel free to connect with me a bit closer :D
 [<img align="left" alt="Sven Kamm | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /><span style="color:black;font-weight:normal;font-size:18px;">&nbsp;My personal Linkedin profile</span>](https://www.linkedin.com/in/svendolin/)
 
 <!-- [<img align="left" alt="Social Media" width="30px" src="https://cdn.beacons.ai/user_content/asB8TGPlT5fi8sFT63UzqBdY68A2/profile_toycarsaddict.webp?t=1690837500442" /><span style="color:black;font-weight:normal;font-size:18px;">&nbsp;Social Media and Shop (Modelcar Based)</span>](https://beacons.ai/toycarsaddict) -->

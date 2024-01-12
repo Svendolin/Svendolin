@@ -49,7 +49,7 @@
 <img align="left" alt="Stackblitz" style="padding-left:10px;" width="35px" src="https://angular.de/artikel/stackblitz/stackblitz.png" />
 <img align="left" alt="Wordpress" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 <img align="left" alt="Elementor" style="padding-left:10px;" width="35px" src="https://elementor.com/marketing/wp-content/uploads/2021/10/Elementor-Logo-Symbol-Red.png" />
-<img align="left" alt="Codesandbox" style="padding-left:10px;" width="35px" src="[https://elementor.com/marketing/wp-content/uploads/2021/10/Elementor-Logo-Symbol-Red.png](https://seeklogo.com/images/C/code-sandbox-logo-0746E97CA1-seeklogo.com.png)" />
+<img align="left" alt="Codesandbox" style="padding-left:10px;" width="35px" src="https://seeklogo.com/images/C/code-sandbox-logo-0746E97CA1-seeklogo.com.png" />
 </p>
 
 <br />

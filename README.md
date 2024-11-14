@@ -68,6 +68,7 @@
 <img align="left" alt="Express" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="Bootstrap" style="padding-left:10px;" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="Tailwind" style="padding-left:10px;" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" />
+<img align="left" alt="Vercel / Next.js" style="padding-left:10px;" width="35px" src="https://avatars.githubusercontent.com/u/14985020?s=48&v=4" />
 </p>
 
 <br />
